@@ -1,1 +1,29 @@
+csv
+id,nome,pais,plano
+1,Ana,Brasil,Premium
+2,Carlos,Brasil,Free
+3,Julia,Portugal,Premium
+4,Pedro,Brasil,Free
+5,Maria,Brasil,Premium
+
+csv musicas 
+id,titulo,artista,genero
+1,Shape of You,Ed Sheeran,Pop
+2,Blinding Lights,The Weeknd,Pop
+3,Numb,Linkin Park,Rock
+4,Believer,Imagine Dragons,Rock
+5,Levitating,Dua Lipa,Pop
+
+csv player
+usuario_id,musica_id,data_execucao
+1,1,2026-06-01
+1,2,2026-06-01
+2,3,2026-06-01
+3,5,2026-06-02
+4,4,2026-06-02
+5,1,2026-06-02
+1,5,2026-06-03
+3,2,2026-06-03
+5,3,2026-06-03
+
 
