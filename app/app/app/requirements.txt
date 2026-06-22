@@ -1,10 +1,4 @@
-csv
-id,nome,pais,plano
-1,Ana,Brasil,Premium
-2,Carlos,Brasil,Free
-3,Julia,Portugal,Premium
-4,Pedro,Brasil,Free
-5,Maria,Brasil,Premium
+
 
 csv musicas 
 id,titulo,artista,genero
